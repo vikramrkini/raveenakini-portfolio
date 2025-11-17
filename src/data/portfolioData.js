@@ -200,7 +200,7 @@ export const navLinks = [
 ]
 
 export const aboutStats = [
-  { label: 'Years of Clinical Practice', value: '7+', detail: 'Since 2017 across leading Mumbai hospitals and private practice.' },
+  { label: 'Years of Clinical Practice', value: '7+', detail: 'Since 2018 across leading Mumbai hospitals and private practice.' },
   { label: 'Advanced modalities', value: '8 techniques', detail: 'Manual therapy, dry needling, fascial work, and more.' },
   {
     label: 'Research + Teaching',
