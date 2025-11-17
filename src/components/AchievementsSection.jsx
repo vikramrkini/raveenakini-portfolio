@@ -8,7 +8,7 @@ export default function AchievementsSection() {
           <p className="section-label">Achievements</p>
           <h2>Honours, publications & leadership</h2>
           <p>
-            Dr. Raveena Kini blends academic excellence with community leadership, spanning scholarship-winning
+            Dr. Raveena Kini (PT) blends academic excellence with community leadership, spanning scholarship-winning
             research, national presentations, and a growing private practice that uplifts underserved voices.
           </p>
         </div>

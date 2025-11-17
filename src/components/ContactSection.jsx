@@ -2,8 +2,8 @@ export default function ContactSection() {
   return (
     <section id="contact" className="section-grid contact">
       <div className="section-heading">
-        <p className="section-label">Contact us</p>
-        <h2>Let’s begin a brave conversation</h2>
+        <p className="section-label">Contact Dr Raveena Kini (PT)</p>
+        <h2>Book a consultation</h2>
       </div>
       <div className="contact-card contact-layout">
         <div className="contact-info">

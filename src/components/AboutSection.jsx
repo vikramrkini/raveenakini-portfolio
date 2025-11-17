@@ -1,16 +1,15 @@
 import portrait from '../assets/ravi-portfolio-pic.png'
-import { aboutParagraphs, highlightPoints, milestones, aboutStats } from '../data/portfolioData'
+import { aboutParagraphs, highlightPoints, aboutStats } from '../data/portfolioData'
 
 export default function AboutSection() {
   return (
     <section id="about" className="section-grid about">
       <div className="about-card">
         <figure className="about-figure">
-          <img src={portrait} alt="Dr Raveena Kini portrait" />
+          <img src={portrait} alt="Dr Raveena Kini (PT) portrait" />
         </figure>
         <div className="about-content">
           <p className="section-label">About Dr Raveena Kini (PT)</p>
-          <h2>Physiotherapist championing empowered movement</h2>
           <div className="about-stats">
             {aboutStats.map((stat) => (
               <div key={stat.label} className="about-stat">
@@ -32,14 +31,6 @@ export default function AboutSection() {
               </li>
             ))}
           </ul>
-          <div className="milestones">
-            {milestones.map((item) => (
-              <article key={item.year} className="milestone">
-                <span className="milestone-year">{item.year}</span>
-                <p>{item.label}</p>
-              </article>
-            ))}
-          </div>
         </div>
       </div>
     </section>

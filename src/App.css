@@ -21,13 +21,14 @@
 }
 
 .logo-mark {
-  font-weight: 700;
-  font-size: 1.3rem;
-  letter-spacing: 0.3rem;
-  color: #2081c3;
-  border: 1px solid rgba(32, 129, 195, 0.3);
-  padding: 0.4rem 0.8rem;
-  border-radius: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.logo-mark img {
+  display: block;
+  width: auto;
+  height: 150px;
 }
 
 .site-header {
