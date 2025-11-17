@@ -792,6 +792,105 @@
   box-shadow: 0 15px 30px rgba(99, 210, 255, 0.5);
 }
 
+@media (max-width: 960px) {
+  .site-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 1.5rem;
+  }
+
+  .section-nav {
+    justify-content: center;
+  }
+
+  .section-grid {
+    padding: 2rem;
+  }
+
+  .achievements-hero {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-pill-grid {
+    justify-content: center;
+  }
+
+  .about-card {
+    grid-template-columns: 1fr;
+    padding: 1.75rem;
+  }
+}
+
+@media (max-width: 720px) {
+  .page {
+    padding: 1.25rem 0.75rem 2rem;
+  }
+
+  .layout-shell {
+    gap: 1.25rem;
+  }
+
+  .section-grid {
+    padding: 1.5rem;
+    border-radius: 24px;
+  }
+
+  .about-card {
+    padding: 1.5rem;
+  }
+
+  .achievements-hero p,
+  .achievements-hero h2 {
+    max-width: 100%;
+  }
+
+  .achievement-card figure {
+    height: 180px;
+  }
+
+  .achievement-card h3 {
+    font-size: 1.2rem;
+  }
+
+  .contact-card {
+    padding: 1.5rem;
+  }
+
+  .contact-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-map iframe {
+    min-height: 200px;
+  }
+}
+
+@media (max-width: 520px) {
+  .logo-mark img {
+    height: 60px;
+  }
+
+  .section-nav {
+    gap: 0.4rem;
+  }
+
+  .about-card,
+  .contact-card {
+    padding: 1.2rem;
+  }
+
+  .about-stats {
+    flex-direction: column;
+  }
+
+  .nav-pill {
+    padding: 0.5rem 0.8rem;
+    font-size: 0.85rem;
+  }
+}
+
 @keyframes ambientGlow {
   0%,
   100% {
