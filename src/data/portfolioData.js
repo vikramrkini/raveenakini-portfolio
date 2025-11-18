@@ -178,7 +178,7 @@ export const reasons = [
 
 export const aboutParagraphs = [
   'Dr. Raveena Kini (PT) is a passionate and accomplished physiotherapist specializing in Musculoskeletal Physiotherapy. She completed her post-graduation from Seth G.S. Medical College and KEM Hospital, Mumbai, where she earned the Gold Medal and secured the first rank in Maharashtra via the Mumbai Branch of the Indian Association of Physiotherapists.',
-  'Certified as a Medical Writer and holding a Diploma in Hospital and Healthcare Management from Symbiosis University, Pune, she has worked since 2019 with Ramkrishna Mission Charitable Hospital, Saifee Hospital, and Mahatma Gandhi Mission’s Hospital before launching her own practice.',
+  'Certified as a Medical Writer and holding a Diploma in Hospital and Healthcare Management from Symbiosis University, Pune, she has worked since 2019 with Ramkrishna Mission Charitable Hospital, Saifee Hospital, and Mahatma Gandhi Mission’s Hospital.',
   'Founder of Reform the Physio Way since 2020, Dr. Raveena helps patients restore movement, strength, and confidence through evidence-based care while intentionally serving underprivileged communities.',
   'Alongside her clinic, she served as an Assistant Professor in Musculoskeletal Physiotherapy at MGM College of Physiotherapy, Navi Mumbai (2021–2025), where she mentored multiple undergrad and post-grad physiotherapy students and co-authored multiple research publications.',
 ]
@@ -205,7 +205,7 @@ export const aboutStats = [
   {
     label: 'Research + Teaching',
     value: 'Multiple publications',
-    detail: 'Former Assistant Professor of Musculoskeletal Physiotherapy while authoring evolving somatic studies.',
+    detail: 'Former Assistant Professor of Musculoskeletal Physiotherapy while authoring evolving studies.',
   },
 ]
 

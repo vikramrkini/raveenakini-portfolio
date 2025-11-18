@@ -6,7 +6,6 @@ const whyHighlights = [
   'Comprehensive Care – From degenerative and trauma conditions to rehabilitation and fitness — complete care under one roof.',
   'Personalized Treatment Plans – Each program is tailored to your individual goals, lifestyle, and recovery pace.',
   'Certified and Skilled Professional – Certified Medical Writer trained in Manual Therapy, Dry Needling, Kinesiology Taping, and more.',
-  'Commitment to Education & Innovation – Award-winning educator recognized for competency-based training and advanced physiotherapy education.',
   'Patient-Centered Approach – Focused on long-term recovery, prevention, and empowering patients through knowledge.',
   'Easy to take appointment – Request via WhatsApp and receive confirmation within minutes.',
   'Good infection control and hygiene – We maintain robust infection control policies to ensure safe care.',

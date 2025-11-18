@@ -7,10 +7,10 @@ export default function AchievementsSection() {
         <div>
           <p className="section-label">Achievements</p>
           <h2>Honours, publications & leadership</h2>
-          <p>
+          {/* <p>
             Dr. Raveena Kini (PT) blends academic excellence with community leadership, spanning scholarship-winning
             research, national presentations, and a growing private practice that uplifts underserved voices.
-          </p>
+          </p> */}
         </div>
         <div className="hero-pill-grid">
           <span>Gold Medalist</span>
